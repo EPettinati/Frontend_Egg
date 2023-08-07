@@ -1,0 +1,60 @@
+h1 {
+    color: #328691;
+}
+
+strong, p a {
+    color: red;
+}
+
+.destacado {
+    color: #d4d121;
+}
+
+#subtitulo, p a em {
+    color: blue;
+}
+
+p .especial {
+    color: purple;
+}
+
+caption {
+    display: none;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    color: black;
+}
+
+table thead tr th.especial, table tbody tr th.especial {
+    color: #d4d121;
+    border: 1px solid black;
+}
+
+table tfoot tr th, table tbody tr th {
+    color: red;
+    border: 1px solid black;
+}
+
+table tbody tr td strong {
+    color: #d4d121;
+}
+
+table tbody tr td {
+    color: green;
+    border: 1px solid black;
+}
+
+#adicional {
+    color: #d4d121;
+}
+
+#especial {
+    color: purple;
+}
+
+#adicional p a {
+    color: green;
+}

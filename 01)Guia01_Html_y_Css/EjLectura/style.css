@@ -1,0 +1,9 @@
+* {
+    background-color:bisque ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo {
+    font-size: 30px;
+    color: blue;
+}

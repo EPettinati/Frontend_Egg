@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+.tituloTabla {
+    text-align: center;
+    background-color: rgb(219, 219, 219);
+}
+
+.subTitulo {
+    text-align: center;
+    background-color: #E6F3FF;
+    display: flex;
+    align-items: center;
+}
+
+.linea-Color {
+    background-color: #FFFFCC;
+}
+
+img {
+    width: 1rem;
+    margin-right: 5px;
+}
