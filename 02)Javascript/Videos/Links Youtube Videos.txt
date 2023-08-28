@@ -1,0 +1,5 @@
+Introducción a Javascript: https://www.youtube.com/playlist?list=PLgwlfcqa5h3yfZ6XIPhUo2VBzJarJk1y3
+Programación | DOM | Javascript: https://www.youtube.com/playlist?list=PLgwlfcqa5h3xj_IP0PrLMQBr8ujn2-AbX
+Comunicacion y Persistencia | Javascript: https://www.youtube.com/playlist?list=PLgwlfcqa5h3y8CaKiY7HbjAIQST4_-Q9X
+Funciones | Javascript: https://www.youtube.com/playlist?list=PLgwlfcqa5h3wSQmYW6AT2UlitOkinkAf8
+Condicionales y Bucles | Javascript: https://www.youtube.com/playlist?list=PLgwlfcqa5h3zmcbq6BiSo7FoAPq6Mgj9I
